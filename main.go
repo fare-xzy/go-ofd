@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	inLog "go-ofd/internal/log"
-	"go-ofd/internal/util"
+	inLog "go-ofd/log"
+	"go-ofd/util"
 	"os"
 	"path"
 	"path/filepath"
