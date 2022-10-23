@@ -1,0 +1,2527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ofd:Page
+        xmlns:ofd="http://www.ofdspec.org/2016">
+    <ofd:Area>
+        <ofd:PhysicalBox>0 0 209.9028 297.0389</ofd:PhysicalBox>
+    </ofd:Area>
+    <ofd:Content>
+        <ofd:Layer ID="3">
+            <ofd:TextObject ID="5" CTM="0.1958 0 0 0.1958 0 0" Boundary="84.3933 12.388 41.7419 6.9841" LineWidth="0.75" Font="4" Size="30" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:CGTransform CodePosition="0" CodeCount="7" GlyphCount="7">
+                    <ofd:Glyphs>6175 7427 11705 5785 2528 5859 1082</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="28.7556" DeltaX="30 30 30 30 30 30">手术知情同意书</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="7" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.7948 23.9751 7.5182 4.1739" Font="6" Size="19">
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>4007 2529</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="17.575" DeltaX="19">姓名</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:PathObject ID="8" CTM="0.3528 0 0 0.3528 0 0" Boundary="51.3045 23.6961 10.5728 3.7201" Stroke="false" Fill="true">
+                <ofd:FillColor Value="255 255 255"/>
+                <ofd:AbbreviatedData>M 0 0 L 29.97 0 L 29.97 10.545 L 0 10.545 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:TextObject ID="9" CTM="0.1958 0 0 0.1958 0 0" Boundary="52.4792 23.9126 8.3466 3.0837" Font="6" Size="14">
+                <ofd:CGTransform CodePosition="0" CodeCount="3" GlyphCount="3">
+                    <ofd:Glyphs>5364 4579 3247</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.8939" DeltaX="14 14">张小四</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="10" CTM="0.1958 0 0 0.1958 0 0" Boundary="68.5341 23.9639 7.853 4.2557" Font="6" Size="19">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-174.27 -52.9293 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-174.27 -52.9293 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>5192 21848</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="17.632" DeltaX="19">年龄</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:PathObject ID="13" CTM="0.3528 0 0 0.3528 0 0" Boundary="94.7702 23.8919 5.8737 3.7201" Stroke="false" Fill="true">
+                <ofd:FillColor Value="255 255 255"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-248.64 -52.725 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-248.64 -52.725 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0 0 L 16.65 0 L 16.65 10.545 L 0 10.545 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:TextObject ID="16" CTM="0.1958 0 0 0.1958 0 0" Boundary="96.3366 24.4374 2.9823 2.4697" Font="6" Size="14">
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>22 22</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="11.214" DeltaX="7">33</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="17" CTM="0.1958 0 0 0.1958 0 0" Boundary="119.6358 23.9639 7.693 4.1999" Font="6" Size="19">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-319.125 -52.9293 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-319.125 -52.9293 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>5627 2047</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="17.632" DeltaX="19">性别</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:PathObject ID="20" CTM="0.3528 0 0 0.3528 0 0" Boundary="131.9706 23.8919 5.8737 3.7201" Stroke="false" Fill="true">
+                <ofd:FillColor Value="255 255 255"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-354.09 -52.725 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-354.09 -52.725 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0 0 L 16.65 0 L 16.65 10.545 L 0 10.545 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:TextObject ID="23" CTM="0.1958 0 0 0.1958 0 0" Boundary="133.537 24.1084 3.0234 3.0755" Font="6" Size="14">
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>3911</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.8939">女</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="24" CTM="0.1958 0 0 0.1958 0 0" Boundary="144.8929 23.9639 11.4875 4.1851" Font="6" Size="19">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-390.72 -52.9293 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-390.72 -52.9293 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="3" GlyphCount="3">
+                    <ofd:Glyphs>11161 2394 2507</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="17.632" DeltaX="19 19">病历号</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:PathObject ID="27" CTM="0.3528 0 0 0.3528 0 0" Boundary="162.3184 23.8919 8.8106 3.7201" Stroke="false" Fill="true">
+                <ofd:FillColor Value="255 255 255"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-440.115 -52.725 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-440.115 -52.725 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0 0 L 24.975 0 L 24.975 10.545 L 0 10.545 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:TextObject ID="30" CTM="0.1958 0 0 0.1958 0 0" Boundary="161.9268 24.4374 9.835 2.4697" Font="6" Size="14">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="1.11 -1.5463 24.975 10.545" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 24.975 0 L 24.975 10.545 L 0 10.545 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="7" GlyphCount="7">
+                    <ofd:Glyphs>49 19 23 22 23 23 21</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="11.214" DeltaX="7 7 7 7 7 7">N043442</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="32" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 29.1516 33.9771 4.3935" LineWidth="0.475" Font="4" Size="19" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -67.6346 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -67.6346 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="9" GlyphCount="9">
+                    <ofd:Glyphs>11154 11161 1183 13473 2656 8847 11115 5326 16770</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="18.1359" DeltaX="19 19 19 19 19 19 19 19">疾病介绍和治疗建议</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="35" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 36.8337 6.1381 0.744" Font="6" Size="19">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -89.4105 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -89.4105 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="4" GlyphCount="4">
+                    <ofd:Glyphs>22021 22021 22021 22021</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="1.9" DeltaX="9.5 9.5 9.5"></ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="38" CTM="0.1958 0 0 0.1958 0 0" Boundary="56.3951 34.2986 25.3965 3.5713" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-139.86 -82.2244 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-139.86 -82.2244 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="8" GlyphCount="8">
+                    <ofd:Glyphs>2319 10995 5062 2590 11705 6117 5751 7389</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.848" DeltaX="16 16 16 16 16 16 16">医生已告知我患有</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:PathObject ID="41" CTM="0.3528 0 0 0.3528 0 0" Boundary="81.6522 34.0731 19.1876 4.1116" Stroke="false" Fill="true">
+                <ofd:FillColor Value="255 255 255"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-211.455 -81.585 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-211.455 -81.585 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0 0 L 54.39 0 L 54.39 11.655 L 0 11.655 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="44" CTM="0.3528 0 0 0.3528 0 0" Boundary="81.6522 38.1847 19.1876 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-211.455 -93.24 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-211.455 -93.24 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 54.1125 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:TextObject ID="47" CTM="0.1958 0 0 0.1958 0 0" Boundary="82.0438 34.2986 28.5167 3.5368" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-1.11 -0.6393 54.39 11.655" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 54.39 0 L 54.39 11.655 L 0 11.655 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="9" GlyphCount="9">
+                    <ofd:Glyphs>2464 11536 16282 13605 14192 8609 13466 14002 11256</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.848" DeltaX="16 16 16 16 16 16 16 16">双眼视网膜母细胞瘤</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="49" CTM="0.1958 0 0 0.1958 0 0" Boundary="101.4271 34.2986 12.8408 3.5462" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-267.51 -82.2244 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-267.51 -82.2244 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="4" GlyphCount="4">
+                    <ofd:Glyphs>712 19668 16213 3324</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.848" DeltaX="16 16 16">，需要在</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:PathObject ID="52" CTM="0.3528 0 0 0.3528 0 0" Boundary="125.1179 34.0731 30.9351 4.1116" Stroke="false" Fill="true">
+                <ofd:FillColor Value="255 255 255"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-334.665 -81.585 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-334.665 -81.585 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0 0 L 87.69 0 L 87.69 11.655 L 0 11.655 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="55" CTM="0.3528 0 0 0.3528 0 0" Boundary="125.1179 38.1847 30.9351 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-334.665 -93.24 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-334.665 -93.24 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 87.4125 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:TextObject ID="58" CTM="0.1958 0 0 0.1958 0 0" Boundary="125.5095 34.3331 6.5629 3.5117" Font="6" Size="16">
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>4628 18108</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.672" DeltaX="16">局部</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="59" CTM="0.1958 0 0 0.1958 0 0" Boundary="156.6404 34.2986 16.0111 3.5368" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-424.02 -82.2244 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-424.02 -82.2244 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="5" GlyphCount="5">
+                    <ofd:Glyphs>21647 18269 991 17839 15904</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.848" DeltaX="16 16 16 16">麻醉下进行</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:PathObject ID="62" CTM="0.3528 0 0 0.3528 0 0" Boundary="37.7948 38.7721 19.1876 4.1116" Stroke="false" Fill="true">
+                <ofd:FillColor Value="255 255 255"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-87.135 -94.905 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-87.135 -94.905 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0 0 L 54.39 0 L 54.39 11.655 L 0 11.655 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="65" CTM="0.3528 0 0 0.3528 0 0" Boundary="37.7948 42.8837 19.1876 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-87.135 -106.56 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-87.135 -106.56 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 54.1125 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:TextObject ID="68" CTM="0.1958 0 0 0.1958 0 0" Boundary="38.1864 39.007 9.7207 3.5274" Font="6" Size="16">
+                <ofd:CGTransform CodePosition="0" CodeCount="3" GlyphCount="3">
+                    <ofd:Glyphs>16282 13605 14192</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.8" DeltaX="16 16">视网膜</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="69" CTM="0.1958 0 0 0.1958 0 0" Boundary="57.5698 38.9725 7.8599 3.5713" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-143.19 -95.4733 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-143.19 -95.4733 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="3" GlyphCount="3">
+                    <ofd:Glyphs>6175 7427 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16">手术。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="72" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 44.6043 33.9622 4.4382" LineWidth="0.475" Font="4" Size="19" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -111.4374 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -111.4374 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="9" GlyphCount="9">
+                    <ofd:Glyphs>6175 7427 9520 3324 20130 19517 2656 4557 12586</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="18.2119" DeltaX="19 19 19 19 19 19 19 19">手术潜在风险和对策</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="75" CTM="0.1958 0 0 0.1958 0 0" Boundary="44.0602 48.7621 125.6544 3.6088" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.895 -123.2233 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.895 -123.2233 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="40" GlyphCount="40">
+                    <ofd:Glyphs>2319 10995 2590 11705 6117 6175 7427 2499 14033 2469 10995 11352 980 1135 20130 19517 712 7389 1135 993 5132 16277 11352 20130 19517 2499 14033 8821 7389 3324 8504 2027 1998 712 1867 1319 11352 6175 7427 7427</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">医生告知我手术可能发生的一些风险，有些不常见的风险可能没有在此列出，具体的手术术</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="78" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 52.4822 135.0399 3.6088" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -133.7683 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -133.7683 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="43" GlyphCount="43">
+                    <ofd:Glyphs>5347 7693 6466 993 2528 11161 1166 11352 5785 1929 7389 6164 993 2528 712 2319 10995 2590 16797 6117 2499 994 6117 11352 2319 10995 16764 16782 7389 1863 6117 6175 7427 11352 1867 1319 1881 4493 712 3926 7536 6117 7389</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">式根据不同病人的情况有所不同，医生告诉我可与我的医生讨论有关我手术的具体内容，如果我有</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="81" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 56.2147 42.3192 3.5838" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -144.3488 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -144.3488 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="14" GlyphCount="14">
+                    <ofd:Glyphs>10317 8542 11352 19394 20076 2499 994 6117 11352 2319 10995 16764 16782 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.912" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16">特殊的问题可与我的医生讨论。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="84" CTM="0.1958 0 0 0.1958 0 0" Boundary="44.4518 60.3326 3.1483 2.9541" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-106.005 -156.0216 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-106.005 -156.0216 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>20 451</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.88" DeltaX="8">1、</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="87" CTM="0.1958 0 0 0.1958 0 0" Boundary="49.1508 59.9222 45.1731 3.5963" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-119.325 -154.8583 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-119.325 -154.8583 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="15" GlyphCount="15">
+                    <ofd:Glyphs>6117 10714 16311 1231 1321 6175 7427 21647 18269 18129 4396 3324 20130 19517 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16">我理解任何手术麻醉都存在风险；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="90" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 66.2612 3.6026 0.6265" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -172.827 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -172.827 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="3" GlyphCount="3">
+                    <ofd:Glyphs>22021 22021 22021</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="1.6" DeltaX="8 8"></ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="93" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 64.0652 1.842 2.8225" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -166.6021 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -166.6021 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>21</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.816">2</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="96" CTM="0.1958 0 0 0.1958 0 0" Boundary="46.9971 63.6423 125.6168 3.5963" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -165.4033 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -165.4033 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="40" GlyphCount="40">
+                    <ofd:Glyphs>451 6117 10714 16311 1231 1321 6164 11004 14659 10301 18129 2499 14033 1147 10995 2115 1328 11004 712 2265 6336 17743 5242 11352 5706 5527 451 11394 11149 12573 11163 10378 2052 1017 18337 11352 17819 6947 5627 1253</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">、我理解任何所用药物都可能产生副作用，包括轻度的恶心、皮疹等症状到严重的过敏性休</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="99" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 67.3748 4.4484 3.5587" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -175.9838 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -175.9838 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>1823 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.912" DeltaX="16">克；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="102" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 71.5053 1.842 2.8225" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -187.6921 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -187.6921 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>22</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.816">3</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="105" CTM="0.1958 0 0 0.1958 0 0" Boundary="45.4307 71.0824 38.9077 3.5963" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -186.4933 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -186.4933 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="13" GlyphCount="13">
+                    <ofd:Glyphs>451 6117 10714 16311 8504 6175 7427 2469 10995 11352 20130 19517 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16">、我理解此手术发生的风险；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="108" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 75.2253 1.9266 2.8225" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -198.2371 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -198.2371 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>23</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.816">4</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="111" CTM="0.1958 0 0 0.1958 0 0" Boundary="45.4307 74.8149 38.9077 3.5587" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -197.0738 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -197.0738 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="13" GlyphCount="13">
+                    <ofd:Glyphs>451 21647 18269 5859 3818 451 5527 14053 15892 12661 5859 3818 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.912" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16">、麻醉意外、心脑血管意外；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="114" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 78.9673 1.842 2.8006" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -208.8443 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -208.8443 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>24</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.704">5</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="117" CTM="0.1958 0 0 0.1958 0 0" Boundary="45.4307 78.5224 51.4384 3.5713" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -207.5833 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -207.5833 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="17" GlyphCount="17">
+                    <ofd:Glyphs>451 7427 1025 6451 1272 3835 15892 12661 712 4560 14280 3845 15892 5627 1253 1823 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">、术中损伤大血管，导致失血性休克；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="120" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 82.6654 1.8765 2.8225" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -219.3271 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -219.3271 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>25</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.816">6</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="123" CTM="0.1958 0 0 0.1958 0 0" Boundary="45.4307 82.2425 29.5097 3.5713" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -218.1283 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -218.1283 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="10" GlyphCount="10">
+                    <ofd:Glyphs>451 7427 1025 6451 1272 18337 16213 12082 13475 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16">、术中损伤重要神经；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="126" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 86.4074 1.8514 2.8006" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -229.9343 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -229.9343 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>26</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.704">7</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="129" CTM="0.1958 0 0 0.1958 0 0" Boundary="45.4307 85.9751 63.9691 3.5713" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -228.7088 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -228.7088 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="21" GlyphCount="21">
+                    <ofd:Glyphs>451 1272 2487 12227 9094 451 5875 7591 451 16022 5332 451 5322 17843 5852 2524 6122 993 5852 2524 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.912" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">、伤口积液、感染、裂开、延迟愈合或不愈合；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="132" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 90.1055 1.8514 2.8225" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -240.4172 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -240.4172 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>27</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.816">8</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="135" CTM="0.1958 0 0 0.1958 0 0" Boundary="45.4307 89.6826 70.2344 3.5712" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -239.2183 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -239.2183 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="23" GlyphCount="23">
+                    <ofd:Glyphs>451 2011 2487 5875 7591 1017 18337 6122 16022 5332 13785 19668 9177 2031 6122 9177 2031 2530 1120 8437 6175 7427 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">、切口感染严重或裂开者需清创或清创后二次手术；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="138" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 93.8255 1.8639 2.8225" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -250.9622 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -250.9622 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>28</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.816">9</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="141" CTM="0.1958 0 0 0.1958 0 0" Boundary="45.4307 93.4026 63.9691 3.5838" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -249.7633 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-108.78 -249.7633 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="21" GlyphCount="21">
+                    <ofd:Glyphs>451 7427 2530 6175 7427 18108 1313 1998 15892 712 2499 14033 19668 16213 17839 15904 1120 8437 6175 7427 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">、术后手术部位出血，可能需要进行二次手术；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="144" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 97.533 3.4428 2.8351" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -261.4716 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -261.4716 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>20 19</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.88" DeltaX="8">10</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="147" CTM="0.1958 0 0 0.1958 0 0" Boundary="46.9971 97.1227 67.1017 3.5712" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -260.3083 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -260.3083 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="22" GlyphCount="22">
+                    <ofd:Glyphs>451 7427 1025 6451 1272 15892 12661 6122 12082 13475 4560 14280 1998 15892 6122 4628 18108 5875 16285 21647 7420 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">、术中损伤血管或神经导致出血或局部感觉麻木；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="150" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 101.2531 3.283 2.8351" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -272.0167 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -272.0167 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>20 20</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.88" DeltaX="8">11</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="153" CTM="0.1958 0 0 0.1958 0 0" Boundary="46.9971 100.8552 51.4384 3.5838" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -270.8889 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -270.8889 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="17" GlyphCount="17">
+                    <ofd:Glyphs>451 1866 4439 11458 2081 7092 8873 20056 16757 11352 20130 19517 2656 5194 2469 11163 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.912" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">、其它目前无法预计的风险和并发症；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="156" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 104.9731 3.4083 2.8351" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -282.5616 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -282.5616 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>20 21</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.88" DeltaX="8">12</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="159" CTM="0.1958 0 0 0.1958 0 0" Boundary="46.9971 104.5627 125.5917 3.5963" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -281.3983 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -281.3983 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="40" GlyphCount="40">
+                    <ofd:Glyphs>451 6117 10714 16311 3926 7536 6117 5751 7389 20652 15892 2399 451 5527 14051 11161 451 12970 4627 11161 451 13937 13970 2163 14033 993 1852 451 19757 14045 15892 7655 12573 11154 11161 6122 13785 7389 2572 9907</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">、我理解如果我患有高血压、心脏病、糖尿病、肝肾功能不全、静脉血栓等疾病或者有吸烟</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="162" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 108.2828 120.3571 3.5963" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -291.9433 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -291.9433 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="39" GlyphCount="39">
+                    <ofd:Glyphs>2502 712 1209 990 17837 1135 20130 19517 2499 14033 1262 2164 3835 712 6122 13785 3324 7427 1025 6122 7427 2530 1998 10628 11468 1863 11352 11161 5785 2164 18337 6122 5527 14053 15892 12661 5859 3818 727</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">史，以上这些风险可能会加大，或者在术中或术后出现相关的病情加重或心脑血管意外；</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="165" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 112.4132 3.4083 2.8351" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -303.6517 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -303.6517 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="2" GlyphCount="2">
+                    <ofd:Glyphs>20 22</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="12.88" DeltaX="8">13</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="168" CTM="0.1958 0 0 0.1958 0 0" Boundary="46.9971 111.9903 67.3805 3.6088" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -302.4528 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -302.4528 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="22" GlyphCount="22">
+                    <ofd:Glyphs>451 6117 10714 16311 7427 2530 3926 7536 993 17993 2319 3077 712 2499 14033 5445 2721 6175 7427 6940 7536 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="15.0401" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">、我理解术后如果不遵医嘱，可能影响手术效果。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="171" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 116.0683 41.3874 4.4084" LineWidth="0.475" Font="4" Size="19" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -314.0124 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -314.0124 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="11" GlyphCount="11">
+                    <ofd:Glyphs>10317 8542 20130 19517 6122 1039 16213 20652 2373 3252 13044</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="18.2119" DeltaX="19 19 19 19 19 19 19 19 19 19">特殊风险或主要高危因素</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="174" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 120.2386 128.787 3.5838" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -325.8339 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -325.8339 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="41" GlyphCount="41">
+                    <ofd:Glyphs>6117 10714 16311 7693 6466 6117 1022 1166 11352 11161 5785 712 6117 2499 14033 1998 10628 7422 2265 6336 3324 990 17860 6164 1144 5465 5194 2469 11163 1209 3818 11352 20130 19517 712 980 7098 2469 10995 990 17860</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.912" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">我理解根据我个人的病情，我可能出现未包括在上述所交待并发症以外的风险，一旦发生上述</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="177" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 123.9461 54.8499 3.5838" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -336.3433 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -336.3433 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="18" GlyphCount="18">
+                    <ofd:Glyphs>20130 19517 2656 5859 3818 712 2319 10995 1262 18331 2474 12227 7509 5224 4557 6526 7057 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">风险和意外，医生会采取积极应对措施。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="180" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 130.1284 10.005 0.5482" Font="6" Size="14">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -353.868 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -353.868 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="8" GlyphCount="8">
+                    <ofd:Glyphs>22021 22021 22021 22021 22021 22021 22021 22021</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="1.4" DeltaX="7 7 7 7 7 7 7"></ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="183" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 132.1529 22.7872 4.3786" LineWidth="0.475" Font="4" Size="19" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -359.6068 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -359.6068 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="6" GlyphCount="6">
+                    <ofd:Glyphs>5751 13785 11705 5785 17885 6333</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="18.0599" DeltaX="19 19 19 19 19">患者知情选择</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="186" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 138.8999 9.8679 0.6265" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -378.732 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -378.732 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="7" GlyphCount="7">
+                    <ofd:Glyphs>22021 22021 22021 22021 22021 22021 22021</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="1.6" DeltaX="8 8 8 8 8 8"></ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="189" CTM="0.1958 0 0 0.1958 0 0" Boundary="52.4792 136.5661 3.1985 2.9948" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-128.76 -372.1164 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-128.76 -372.1164 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>445</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="13.52">●</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="192" CTM="0.1958 0 0 0.1958 0 0" Boundary="59.5277 136.281 113.1112 3.6088" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-148.74 -371.3083 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-148.74 -371.3083 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="36" GlyphCount="36">
+                    <ofd:Glyphs>6117 11352 2319 10995 5062 13475 2590 11705 6117 4570 16213 17839 15904 11352 6175 7427 7053 5347 712 8504 8437 6175 7427 2462 7427 2530 2499 14033 2469 10995 11352 5194 2469 11163 2656 20130</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">我的医生已经告知我将要进行的手术方式，此次手术及术后可能发生的并发症和风</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="195" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 140.001 95.5745 3.5963" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -381.8533 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -381.8533 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="31" GlyphCount="31">
+                    <ofd:Glyphs>19517 451 2499 14033 4396 3324 11352 1866 4439 8847 11115 7053 8873 5194 1000 16311 12584 1114 6117 1863 1122 8504 8437 6175 7427 11352 11468 1863 19394 20076 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">险、可能存在的其它治疗方法并且解答了我关于此次手术的相关问题。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="198" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 143.7211 97.1409 3.6088" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -392.3983 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -392.3983 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="32" GlyphCount="32">
+                    <ofd:Glyphs>445 3 6117 2528 5859 3324 6175 7427 1025 2319 10995 2499 1209 7693 6466 6117 11352 11161 5785 4557 20056 4462 11352 6175 7427 7053 5347 1328 1998 16855 6984 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 8 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">● 我同意在手术中医生可以根据我的病情对预定的手术方式作出调整。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="201" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 147.4411 59.5489 3.5963" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -402.9433 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -402.9433 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="20" GlyphCount="20">
+                    <ofd:Glyphs>445 3 6117 10714 16311 6117 11352 6175 7427 19668 16213 3822 1038 2319 10995 1861 2528 17839 15904 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 8 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">● 我理解我的手术需要多为医生共同进行。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="204" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 151.1612 56.4162 3.5963" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -413.4883 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -413.4883 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="19" GlyphCount="19">
+                    <ofd:Glyphs>445 3 6117 5194 7422 5483 2052 6175 7427 11346 2010 1055 11346 6116 2163 11352 16780 16846 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 8 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">● 我并未得到手术百分之百成功的许诺。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="207" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 155.1663 3.1984 2.9948" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -424.8414 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -424.8414 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="1" GlyphCount="1">
+                    <ofd:Glyphs>445</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="13.52">●</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="210" CTM="0.1958 0 0 0.1958 0 0" Boundary="50.1297 154.8812 122.5092 3.5963" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-122.1 -424.0333 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-122.1 -424.0333 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="39" GlyphCount="39">
+                    <ofd:Glyphs>6117 6492 7447 2319 5084 4557 6175 7427 2011 19512 11352 11161 2476 3132 4460 451 13464 13467 6122 7643 7424 17839 15904 3800 13634 712 2265 6336 11161 10714 4410 7828 7609 2656 2319 11115 5235 10301 3800</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">我授权医师对手术切除的病变器官、组织或标本进行处置，包括病理学检查和医疗废物处</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="213" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 158.6012 7.8599 3.5618" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -434.5783 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -434.5783 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="3" GlyphCount="3">
+                    <ofd:Glyphs>10714 12573 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16">理等。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="216" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 162.2852 13.9169 3.656" LineWidth="0.4" Font="4" Size="16" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -445.021 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -445.021 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="5" GlyphCount="5">
+                    <ofd:Glyphs>5751 13785 12626 2529 726</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="15.1604" DeltaX="16 16 16 16">患者签名：</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="219" CTM="0.1958 0 0 0.1958 0 0" Boundary="43.8644 191.5068 72.1171 3.5712" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -527.8539 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-104.34 -527.8539 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="23" GlyphCount="23">
+                    <ofd:Glyphs>3926 7536 5751 13785 7092 8873 12626 13638 11705 5785 2528 5859 1082 712 16843 1866 6492 7447 11352 1158 4658 12626 2529</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.912" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">如果患者无法签署知情同意书，请其授权的亲属签名</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="222" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 195.1563 26.4476 3.6998" LineWidth="0.4" Font="4" Size="16" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -538.1989 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -538.1989 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="9" GlyphCount="9">
+                    <ofd:Glyphs>5751 13785 6492 7447 1158 4658 12626 2529 726</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="15.2724" DeltaX="16 16 16 16 16 16 16 16">患者授权亲属签名：</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="225" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 225.5456 15.3769 4.3786" LineWidth="0.475" Font="4" Size="19" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -624.3417 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -624.3417 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="4" GlyphCount="4">
+                    <ofd:Glyphs>2319 10995 19484 17860</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="18.0599" DeltaX="19 19 19">医生陈述</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="228" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 229.6736 135.0399 3.6088" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -636.0433 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -636.0433 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="47" GlyphCount="47">
+                    <ofd:Glyphs>22021 22021 22021 22021 22021 22021 22021 22021 6117 5062 13475 2590 11705 5751 13785 4570 16213 17839 15904 11352 6175 7427 7053 5347 451 8504 8437 6175 7427 2462 7427 2530 2499 14033 2469 10995 11352 5194 2469 11163 2656 20130 19517 451 2499 14033 4396</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="8 8 8 8 8 8 8 8 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">        我已经告知患者将要进行的手术方式、此次手术及术后可能发生的并发症和风险、可能存</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="231" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 233.3937 83.0439 3.5712" Font="6" Size="16">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -646.5884 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -646.5884 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="27" GlyphCount="27">
+                    <ofd:Glyphs>3324 11352 1866 4439 8847 11115 7053 8873 5194 1000 16311 12584 1114 5751 13785 1863 1122 8504 8437 6175 7427 11352 11468 1863 19394 20076 452</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="14.976" DeltaX="16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16">在的其它治疗方法并且解答了患者关于此次手术的相关问题。</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="234" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 237.0682 13.9169 3.6278" LineWidth="0.4" Font="4" Size="16" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -657.0044 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -657.0044 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="5" GlyphCount="5">
+                    <ofd:Glyphs>2319 10995 12626 2529 726</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="15.2084" DeltaX="16 16 16 16">医生签名：</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:TextObject ID="237" CTM="0.1958 0 0 0.1958 0 0" Boundary="37.5991 266.2412 20.1823 3.6528" LineWidth="0.4" Font="4" Size="16" Stroke="true">
+                <ofd:StrokeColor Value="0 0 0"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -739.6994 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-86.58 -739.6994 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:CGTransform CodePosition="0" CodeCount="7" GlyphCount="7">
+                    <ofd:Glyphs>990 13435 2319 10995 12626 2529 726</ofd:Glyphs>
+                </ofd:CGTransform>
+                <ofd:TextCode X="0" Y="15.2084" DeltaX="16 16 16 16 16 16">上级医生签名：</ofd:TextCode>
+            </ofd:TextObject>
+            <ofd:PathObject ID="240" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.2285 22.5213 137.4457 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -48.84 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -48.84 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 389.3325 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="243" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.1306 22.6192 11.198 0.7832" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -49.1175 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -49.1175 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 31.3575 0.2775 L 30.8025 1.9425 L 0.2775 1.9425 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="246" CTM="0.3528 0 0 0.3528 0 0" Boundary="46.9971 22.7171 0.1958 5.2864" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -49.395 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.22 -49.395 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 0.2775 14.7075 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="249" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.2285 27.8077 10.9643 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -63.825 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -63.825 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 30.8025 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="252" CTM="0.3528 0 0 0.3528 0 0" Boundary="47.0544 22.5787 0.8237 5.5606" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.3826 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.3826 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3924 0.3925 L 0.3924 15.3774 L 2.0574 14.8224 L 2.0574 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="255" CTM="0.3528 0 0 0.3528 0 0" Boundary="47.0544 22.5787 19.2661 0.8237" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.3826 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.3826 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3924 0.3925 L 54.2274 0.3925 L 53.6724 2.0574 L 2.0574 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="258" CTM="0.3528 0 0 0.3528 0 0" Boundary="65.9889 22.7171 0.1958 5.2864" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-167.055 -49.395 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-167.055 -49.395 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 0.2775 14.7075 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="261" CTM="0.3528 0 0 0.3528 0 0" Boundary="47.1928 27.8077 18.9918 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.775 -63.825 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-113.775 -63.825 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 53.5575 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="264" CTM="0.3528 0 0 0.3528 0 0" Boundary="66.0462 22.5787 0.8237 5.5606" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-167.2176 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-167.2176 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3924 0.3925 L 0.3924 15.3774 L 2.0574 14.8224 L 2.0574 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="267" CTM="0.3528 0 0 0.3528 0 0" Boundary="66.0462 22.5787 12.2176 0.8237" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-167.2176 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-167.2176 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3924 0.3925 L 34.2474 0.3925 L 33.6924 2.0574 L 2.0574 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="270" CTM="0.3528 0 0 0.3528 0 0" Boundary="77.9321 22.7171 0.1958 5.2864" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-200.91 -49.395 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-200.91 -49.395 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 0.2775 14.7075 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="273" CTM="0.3528 0 0 0.3528 0 0" Boundary="66.1846 27.8077 11.9433 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-167.61 -63.825 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-167.61 -63.825 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 33.5775 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="276" CTM="0.3528 0 0 0.3528 0 0" Boundary="77.9895 22.5787 0.8237 5.5606" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-201.0726 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-201.0726 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3924 0.3925 L 0.3924 15.3774 L 2.0574 14.8224 L 2.0574 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="279" CTM="0.3528 0 0 0.3528 0 0" Boundary="77.9895 22.5787 39.4326 0.8237" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-201.0726 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-201.0726 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3924 0.3925 L 111.3924 0.3925 L 110.8374 2.0574 L 2.0574 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="282" CTM="0.3528 0 0 0.3528 0 0" Boundary="117.0905 22.7171 0.1958 5.2864" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-311.91 -49.395 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-311.91 -49.395 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 0.2775 14.7075 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="285" CTM="0.3528 0 0 0.3528 0 0" Boundary="78.1279 27.8077 39.1583 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-201.465 -63.825 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-201.465 -63.825 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 110.7225 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="288" CTM="0.3528 0 0 0.3528 0 0" Boundary="117.1478 22.5787 0.8237 5.5606" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-312.0725 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-312.0725 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3925 0.3925 L 0.3925 15.3774 L 2.0575 14.8224 L 2.0575 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="291" CTM="0.3528 0 0 0.3528 0 0" Boundary="117.1478 22.5787 12.0218 0.8237" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-312.0725 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-312.0725 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3925 0.3925 L 33.6925 0.3925 L 33.1375 2.0574 L 2.0575 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="294" CTM="0.3528 0 0 0.3528 0 0" Boundary="128.838 22.7171 0.1958 5.2864" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-345.21 -49.395 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-345.21 -49.395 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 0.2775 14.7075 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="297" CTM="0.3528 0 0 0.3528 0 0" Boundary="117.2863 27.8077 11.7475 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-312.465 -63.825 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-312.465 -63.825 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 33.0225 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="300" CTM="0.3528 0 0 0.3528 0 0" Boundary="128.8953 22.5787 0.8237 5.5606" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-345.3725 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-345.3725 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3925 0.3925 L 0.3925 15.3774 L 2.0575 14.8224 L 2.0575 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="303" CTM="0.3528 0 0 0.3528 0 0" Boundary="128.8953 22.5787 12.2176 0.8237" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-345.3725 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-345.3725 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3925 0.3925 L 34.2475 0.3925 L 33.6925 2.0574 L 2.0575 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="306" CTM="0.3528 0 0 0.3528 0 0" Boundary="140.7813 22.7171 0.1958 5.2864" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-379.065 -49.395 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-379.065 -49.395 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 0.2775 14.7075 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="309" CTM="0.3528 0 0 0.3528 0 0" Boundary="129.0338 27.8077 11.9433 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-345.765 -63.825 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-345.765 -63.825 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 33.5775 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="312" CTM="0.3528 0 0 0.3528 0 0" Boundary="140.8386 22.5787 0.8237 5.5606" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-379.2275 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-379.2275 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3925 0.3925 L 0.3925 15.3774 L 2.0575 14.8224 L 2.0575 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="315" CTM="0.3528 0 0 0.3528 0 0" Boundary="140.8386 22.5787 18.8745 0.8237" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-379.2275 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-379.2275 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3925 0.3925 L 53.1175 0.3925 L 52.5625 2.0574 L 2.0575 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="318" CTM="0.3528 0 0 0.3528 0 0" Boundary="159.3815 22.7171 0.1958 5.2864" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-431.79 -49.395 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-431.79 -49.395 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 0.2775 14.7075 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="321" CTM="0.3528 0 0 0.3528 0 0" Boundary="140.9771 27.8077 18.6002 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-379.62 -63.825 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-379.62 -63.825 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 52.4475 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="324" CTM="0.3528 0 0 0.3528 0 0" Boundary="159.4388 22.5787 0.8237 5.5606" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-431.9525 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-431.9525 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3925 0.3925 L 0.3925 15.3774 L 2.0575 14.8224 L 2.0575 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="327" CTM="0.3528 0 0 0.3528 0 0" Boundary="159.4388 22.5787 14.3334 0.8237" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-431.9525 -49.0026 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-431.9525 -49.0026 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3925 0.3925 L 40.3524 0.3925 L 40.3524 2.0574 L 2.0575 2.0574 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="330" CTM="0.3528 0 0 0.3528 0 0" Boundary="159.5773 27.8077 14.097 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-432.345 -63.825 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-432.345 -63.825 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 39.6825 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="333" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.1306 27.9056 137.6416 0.7832" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -64.1025 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -64.1025 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 389.8875 0.2775 L 389.8875 1.9425 L 0.2775 1.9425 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="336" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.2285 43.2752 137.4457 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -107.67 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -107.67 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 389.3325 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="339" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.1306 43.3731 137.6416 0.7832" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -107.9475 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -107.9475 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 389.8875 0.2775 L 389.8875 1.9425 L 0.2775 1.9425 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="342" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.2285 130.7941 137.4457 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -355.755 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -355.755 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 389.3325 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="345" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.1306 130.892 137.6416 0.7832" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -356.0325 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -356.0325 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 389.8875 0.2775 L 389.8875 1.9425 L 0.2775 1.9425 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="348" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.2285 224.1868 137.4457 0.1958" LineWidth="0.555" Cap="Square">
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -620.49 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.695 -620.49 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 389.3325 0.2775 </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="351" CTM="0.3528 0 0 0.3528 0 0" Boundary="36.1306 224.2847 137.6416 0.7832" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -620.7675 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-82.4175 -620.7675 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.2775 0.2775 L 389.8875 0.2775 L 389.8875 1.9425 L 0.2775 1.9425 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="354" CTM="0.3528 0 0 0.3528 0 0" Boundary="35.3069 6.7196 1.0195 289.5591" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-80.0826 -4.0475 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-80.0826 -4.0475 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3924 0.3925 L 0.3924 820.1274 L 2.6124 817.9075 L 2.6124 2.6124 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="357" CTM="0.3528 0 0 0.3528 0 0" Boundary="35.3069 6.7196 139.3869 1.0195" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-80.0826 -4.0475 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-80.0826 -4.0475 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 0.3924 0.3925 L 394.4424 0.3925 L 392.2224 2.6124 L 2.6124 2.6124 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+            <ofd:PathObject ID="360" CTM="0.3528 0 0 0.3528 0 0" Boundary="173.5764 6.7196 1.0195 289.5591" LineWidth="0.555" Cap="Square" Join="Bevel" Fill="true">
+                <ofd:FillColor Value="236 233 216"/>
+                <ofd:StrokeColor Value="236 233 216"/>
+                <ofd:Clips TransFlag="false">
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-472.0275 -4.0475 555 812" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 812 L 555 812 L 555 0 L 0 0 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                    <ofd:Clip>
+                        <ofd:Area CTM="0.3528 0 0 0.3528 0 0">
+                            <ofd:Path Boundary="-472.0275 -4.0475 555 828.615" Stroke="false" Fill="true">
+                                <ofd:AbbreviatedData>M 0 0 L 555 0 L 555 828.615 L 0 828.615 C </ofd:AbbreviatedData>
+                            </ofd:Path>
+                        </ofd:Area>
+                    </ofd:Clip>
+                </ofd:Clips>
+                <ofd:AbbreviatedData>M 2.4975 0.3925 L 2.4975 820.1274 L 0.2775 817.9075 L 0.2775 2.6124 C </ofd:AbbreviatedData>
+            </ofd:PathObject>
+        </ofd:Layer>
+    </ofd:Content>
+</ofd:Page>

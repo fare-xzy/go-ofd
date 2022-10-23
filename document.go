@@ -45,7 +45,9 @@ type Page struct {
 	Text     string   `xml:",chardata"`
 	ID       string   `xml:"ID,attr"`
 	BaseLoc  string   `xml:"BaseLoc,attr"`
+	Area     PageArea `xml:"Area"`
 	Template Template `xml:"Template"`
+	ZOrder   string   `xml:"ZOrder"`
 	PageRes  string   `xml:"PageRes"`
 }
 
@@ -61,18 +63,27 @@ type Permissions struct {
 }
 
 type Permission struct {
-	Text        string    `xml:",chardata"`
-	Edit        bool      `xml:"Edit"`
-	Annot       bool      `xml:"Annot"`
-	Export      bool      `xml:"Export"`
-	Signature   bool      `xml:"Signature"`
-	Watermark   bool      `xml:"Watermark"`
-	Print       string    `xml:"Print"`
-	Printable   bool      `xml:"Printable"`
-	Copies      int       `xml:"Copies"`
-	ValidPeriod string    `xml:"ValidPeriod"`
-	StartDate   time.Time `xml:"StartDate"`
-	EndDate     time.Time `xml:"EndDate"`
+	Text        string      `xml:",chardata"`
+	Edit        bool        `xml:"Edit"`
+	Annot       bool        `xml:"Annot"`
+	Export      bool        `xml:"Export"`
+	Signature   bool        `xml:"Signature"`
+	Watermark   bool        `xml:"Watermark"`
+	PrintScreen bool        `xml:"PrintScreen"`
+	Print       Print       `xml:"Print"`
+	ValidPeriod ValidPeriod `xml:"ValidPeriod"`
+}
+
+type Print struct {
+	Text      string `xml:",chardata"`
+	Printable bool   `xml:"Printable,attr"`
+	Copies    int    `xml:"Copies,attr"`
+}
+
+type ValidPeriod struct {
+	Text      string    `xml:",chardata"`
+	StartDate time.Time `xml:"StartDate,attr"`
+	EndDate   time.Time `xml:"EndDate,attr"`
 }
 
 type Actions struct {
