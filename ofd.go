@@ -17,7 +17,7 @@ type DocBody struct {
 	Text       string     `xml:",chardata"`
 	DocInfo    DocInfo    `xml:"DocInfo"`
 	DocRoot    DocRoot    `xml:"DocRoot"`
-	Version    string     `xml:"Version"`
+	Versions   Versions   `xml:"Version"`
 	Signatures Signatures `xml:"Signatures"`
 }
 
@@ -63,4 +63,17 @@ type CustomDatas struct {
 type CustomData struct {
 	Text string `xml:",chardata"`
 	Name string `xml:"Name,attr"`
+}
+
+type Versions struct {
+	Text    string    `xml:",chardata"`
+	Version []Version `xml:"Version"`
+}
+
+type Version struct {
+	Text    string `xml:",chardata"`
+	ID      string `xml:"ID,attr"`
+	Index   int    `xml:"Index,attr"`
+	Current bool   `xml:"Current,attr"`
+	BaseLoc string `xml:"BaseLoc,attr"`
 }

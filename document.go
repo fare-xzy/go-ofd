@@ -16,6 +16,10 @@ type Document struct {
 	Actions      Actions      `xml:"Actions"`
 	VPreferences VPreferences `xml:"VPreferences"`
 	Bookmarks    Bookmarks    `xml:"Bookmarks"`
+	Attachments  string       `xml:"Attachments"`
+	Annotations  string       `xml:"Annotations"`
+	CustomTags   string       `xml:"CustomTags"`
+	Extensions   string       `xml:"Extensions"`
 }
 
 type CommonData struct {
@@ -49,6 +53,9 @@ type Page struct {
 	Template Template `xml:"Template"`
 	ZOrder   string   `xml:"ZOrder"`
 	PageRes  string   `xml:"PageRes"`
+	Content  string   `xml:"Content"`
+	Layer    string   `xml:"Layer"`
+	Actions  Actions
 }
 
 type Template struct {
