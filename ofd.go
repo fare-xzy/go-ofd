@@ -16,7 +16,7 @@ type OFD struct {
 type DocBody struct {
 	Text       string     `xml:",chardata"`
 	DocInfo    DocInfo    `xml:"DocInfo"`
-	DocRoot    DocRoot    `xml:"DocRoot"`
+	DocRoot    ST_Loc     `xml:"DocRoot"`
 	Versions   Versions   `xml:"Version"`
 	Signatures Signatures `xml:"Signatures"`
 }
@@ -31,15 +31,11 @@ type DocInfo struct {
 	CreationDate   string      `xml:"CreationDate"`
 	ModDate        string      `xml:"ModDate"`
 	DocUsage       string      `xml:"DocUsage"`
-	Cover          string      `xml:"Cover"`
+	Cover          ST_Loc      `xml:"Cover"`
 	Keywords       Keywords    `xml:"Keywords"`
 	Creator        string      `xml:"Creator"`
 	CreatorVersion string      `xml:"CreatorVersion"`
 	CustomDatas    CustomDatas `xml:"CustomDatas"`
-}
-
-type DocRoot struct {
-	Text string `xml:",chardata"`
 }
 
 type Signatures struct {
@@ -75,5 +71,5 @@ type Version struct {
 	ID      string `xml:"ID,attr"`
 	Index   int    `xml:"Index,attr"`
 	Current bool   `xml:"Current,attr"`
-	BaseLoc string `xml:"BaseLoc,attr"`
+	BaseLoc ST_Loc `xml:"BaseLoc,attr"`
 }
