@@ -428,4 +428,18 @@
         <xs:attribute name="VerticesPerRow" type="xs:int" use="required"/>
         <xs:attribute name="Extend" type="xs:int"/>
     </xs:complexType>
+    <!-- 颜色定义，渐变和填充被看作颜色的一种 -->
+    <xs:complexType name="CT_Color">
+        <xs:choice minOccurs="0">
+            <xs:element name="Pattern" type="CT_Pattern"/>
+            <xs:element name="AxialShd" type="CT_AxialShd"/>
+            <xs:element name="RadialShd" type="CT_RadialShd"/>
+            <xs:element name="GourandShd" type="CT_GourandShd"/>
+            <xs:element name="LaGourandShd" type="CT_LaGourandShd"/>
+        </xs:choice>
+        <xs:attribute name="Value" type="ST_Array"/>
+        <xs:attribute name="Index" type="xs:int"/>
+        <xs:attribute name="ColorSpace" type="ST_RefID"/>
+        <xs:attribute name="Alpha" type="xs:int" default="255"/>
+    </xs:complexType>
 </xs:schema>
