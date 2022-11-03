@@ -1,8 +1,8 @@
 package main
 
 type (
-	ST_ID    int
-	ST_RefID int
+	ST_ID    uint
+	ST_RefID uint
 	ST_Loc   string
 	ST_Array string
 	ST_Pos   string
