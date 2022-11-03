@@ -325,4 +325,107 @@
             </xs:simpleType>
         </xs:attribute>
     </xs:complexType>
+    <!-- 渐变定义 -->
+    <xs:complexType name="CT_AxialShd">
+        <xs:sequence>
+            <xs:element name="Segment" minOccurs="2" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Color" type="CT_Color"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="MapType" default="Direct">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="Direct"/>
+                    <xs:enumeration value="Repeat"/>
+                    <xs:enumeration value="Reflect"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="MapUnit" type="xs:double"/>
+        <xs:attribute name="Extend" default="0">
+            <xs:simpleType>
+                <xs:restriction base="xs:int">
+                    <xs:enumeration value="0"/>
+                    <xs:enumeration value="1"/>
+                    <xs:enumeration value="2"/>
+                    <xs:enumeration value="3"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="StartPoint" type="ST_Pos" use="required"/>
+        <xs:attribute name="EndPoint" type="ST_Pos" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="CT_RadialShd">
+        <xs:sequence>
+            <xs:element name="Segment" minOccurs="2" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Color" type="CT_Color"/>
+                    </xs:sequence>
+                    <xs:attribute name="Position" type="xs:double"/>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="MapType" default="Direct">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="Direct"/>
+                    <xs:enumeration value="Repeat"/>
+                    <xs:enumeration value="Reflect"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="MapUnit" type="xs:double"/>
+        <xs:attribute name="Eccentricity" type="xs:double" default="0"/>
+        <xs:attribute name="Angle" type="xs:double" default="0"/>
+        <xs:attribute name="StartPoint" type="ST_Pos" use="required"/>
+        <xs:attribute name="StartRadius" type="xs:double" default="0"/>
+        <xs:attribute name="EndPoint" type="ST_Pos" use="required"/>
+        <xs:attribute name="EndRadius" type="xs:double" use="required"/>
+        <xs:attribute name="Extend" type="xs:int" default="0"/>
+    </xs:complexType>
+    <xs:complexType name="CT_GourandShd">
+        <xs:sequence>
+            <xs:element name="Point" minOccurs="3" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Color" type="CT_Color"/>
+                    </xs:sequence>
+                    <xs:attribute name="X" type="xs:double" use="required"/>
+                    <xs:attribute name="Y" type="xs:double" use="required"/>
+                    <xs:attribute name="EdgeFlag">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:int">
+                                <xs:enumeration value="0"/>
+                                <xs:enumeration value="1"/>
+                                <xs:enumeration value="2"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:attribute>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="BackColor" type="CT_Color" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="Extend" type="xs:int"/>
+    </xs:complexType>
+    <xs:complexType name="CT_LaGourandShd">
+        <xs:sequence>
+            <xs:element name="Point" minOccurs="4" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Color" type="CT_Color"/>
+                    </xs:sequence>
+                    <xs:attribute name="X" type="xs:double"/>
+                    <xs:attribute name="Y" type="xs:double"/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="BackColor" type="CT_Color" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="VerticesPerRow" type="xs:int" use="required"/>
+        <xs:attribute name="Extend" type="xs:int"/>
+    </xs:complexType>
 </xs:schema>
